@@ -4,12 +4,12 @@ draft: false
 author: Mackenzie McFate
 date: 2021-04-22T07:50:29-05:00
 socialshare: false
-weight: 500
+weight: 800
 menu:
   main:
     identifier: calendar
     pre: calendar
-    weight: 500
+    weight: 200
 ---
 
 <!-- from fullCalendar index.html -->

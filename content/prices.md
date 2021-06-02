@@ -4,12 +4,12 @@ draft: false
 author: Mackenzie McFate
 date: 2021-03-31T07:50:29-05:00
 socialshare: false
-weight: 800
+weight: 500
 menu:
   main:
     identifier: prices
     pre: dollar-sign
-    weight: 200
+    weight: 500
 ---
 
 <hr/>
